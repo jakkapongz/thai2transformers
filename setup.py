@@ -11,7 +11,7 @@ requirements = [
     "emoji",
     "pythainlp>=2.2.4",
     "tqdm",
-    "datasets>=1.2.1",
+    "datasets",
     "sefr_cut",
     "seqeval",
     "pytorch-lightning",
